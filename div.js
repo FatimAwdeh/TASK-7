@@ -1,4 +1,4 @@
-for(let n=0; n <=20 ;n++ ){
+for(let n=1; n <=20 ;n++ ){
     if(n % 3==0 && n % 5==0){
         console.log(n + " " +"Divi par 3 et 5");
     }
